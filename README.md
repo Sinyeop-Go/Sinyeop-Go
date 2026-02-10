@@ -7,14 +7,14 @@
 ### Hi there, I'm Sinyeop Go 👋
 
 <div align="center">
-  <h3>"Optimizing my own state-space for the future of robotics."</h3>
+  <h3>"Developing with Joy, Expanding with Vision. Aiming for T-shaped excellence."</h3>
   <p>Embedded SW Engineer specializing in Servo Drive Control.<br/>Transitioning into the world of Robotics Dynamics and Reinforcement Learning.</p>
 </div>
 
-- 🔭 **Currently:** Developing high-performance firmware (EtherCAT, CiA 402, FSoE).
-- 🌱 **Learning:** Robot Dynamics, Control Theory (PID, LQR), and Reinforcement Learning.
+- 🔭 **Currently:** Developing high-performance firmware.
+- 🌱 **Learning:** Robot Dynamics, Control Theory, and Reinforcement Learning.
 - ❓ **Ask me about:** Embedded Firmware, EtherCAT, and Motor control.
-- ⚡ **Fun fact:** I use spaces over tabs (and every epoch makes me a better developer).
+- ⚡ **Fun fact:** I use spaces over tabs.
 
 <br/>
 
@@ -27,9 +27,8 @@
 <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white"> <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white"> <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 
 ### ⚙️ Industry & Tools
-<img src="https://img.shields.io/badge/Texas_Instruments-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white"> <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"> <img src="https://img.shields.io/badge/EtherCAT-blue?style=for-the-badge"> 
-<br/>
-<img src="https://img.shields.io/badge/Modbus-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/CANopen-005499?style=for-the-badge"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Texas_Instruments-CC0000?style=for-the-badge&logo=texasinstruments&logoColor=white"> <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"> 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 <br/>
 
