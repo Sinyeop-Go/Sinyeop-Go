@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="여기에_해변_이미지_주소_붙여넣기" width="100%" alt="Serene Beach Banner" style="border-radius: 10px;" />
+  <img src="https://github.com/Sinyeop-Go/Sinyeop-Go/blob/main/Gemini_Generated_Image_lxnuhzlxnuhzlxnu.png?raw=true" width="100%" alt="Serene Beach Banner" style="border-radius: 10px;" />
 </div>
 
 <br/>
@@ -35,7 +35,6 @@
 
 ## 📈 Growth Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sinyeop-Go&show_icons=true&theme=tokyonight&count_private=true" alt="Sinyeop's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sinyeop-Go&theme=tokyonight" alt="Sinyeop's Streak" />
 </div>
 
